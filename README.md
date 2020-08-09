@@ -10,7 +10,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Javacccccc   25 hrs 7 mins   ███████████████░░░░░░░░░░   25.40 % 
+Java         25 hrs 7 mins   ███████████████░░░░░░░░░░   25.40 % 
 JavaScript   12 hrs 37 mins  ███████░░░░░░░░░░░░░░░░░░   12.99 % 
 Markdown     2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 JSON         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
