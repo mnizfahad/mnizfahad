@@ -5,7 +5,7 @@
 📸 Passionate Photographer <br/>
 🧭 Curious Explorer <br/>
 
-📚 **This week I spent on** <img src="https://media2.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="25px">
+<img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"> **This week I spent on** 
 <!--START_SECTION:bio-->
 ```text
 Java        35 hrs 02 mins  █████████░░░░░░░░░░░░░░░░   41.90 % 
