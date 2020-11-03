@@ -1,11 +1,11 @@
-### Hi there, It's Fahad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hiya! Fahad Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 👨‍💻 Thoughtful Programmer <br/>
 📸 Passionate Photographer <br/>
 🧭 Curious Explorer <br/>
 
-📚 **This week I spent my time on**
+📚 **This week I spent on** <img src="https://media2.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="25px">
 <!--START_SECTION:bio-->
 ```text
 Java        35 hrs 02 mins  █████████░░░░░░░░░░░░░░░░   41.90 % 
