@@ -17,3 +17,7 @@ JSON         1 hr 23 mins    █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+[<img src="" width="60" height="60" />](https://mnizfahad.com)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://mnizfahad.com)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://mnizfahad.com)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://mnizfahad.com)
