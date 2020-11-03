@@ -10,10 +10,10 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Java        35 hrs 02 mins  ███████████████░░░░░░░░░░   41.90 % 
-Python      17 hrs 04 mins  ███████░░░░░░░░░░░░░░░░░░   20.71 % 
-Flutter     20 hrs 07 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   24.64 % 
-Teach Me    10 hrs 07 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Java        35 hrs 02 mins  █████████░░░░░░░░░░░░░░░░   41.90 % 
+Python      17 hrs 04 mins  █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Flutter     20 hrs 07 mins  ███████░░░░░░░░░░░░░░░░░░   24.64 % 
+Train       10 hrs 07 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
 ```
 <!--END_SECTION:waka-->
 
