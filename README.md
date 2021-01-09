@@ -1,7 +1,7 @@
 ### Hiya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-┃┣ 👨‍💻 Thoughtful Programmer <br/>
-┃┣ 📸 Passionate Photographer <br/>
-┃┗ 🧭 Curious Explorer <br/>
+┣ 👨‍💻 Thoughtful Programmer <br/>
+┣ 📸 Passionate Photographer <br/>
+┗ 🧭 Curious Explorer <br/>
 
 
 
