@@ -9,10 +9,10 @@
 <img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"  width="25px"> **This week I spent on** 
 <!--START_SECTION:bio-->
 ```text
-Java        35 hrs 02 mins  █████████░░░░░░░░░░░░░░░░   41.90 % 
-Python      17 hrs 04 mins  █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Flutter     20 hrs 07 mins  ███████░░░░░░░░░░░░░░░░░░   24.64 % 
-Train       10 hrs 07 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Java        35 hrs 02 mins  █████████████░░░░░░░░░░░░░░   41.90 % 
+Python      17 hrs 04 mins  ███████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Flutter     20 hrs 07 mins  ████████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Train       10 hrs 07 mins  ████░░░░░░░░░░░░░░░░░░░░░░░   12.74 %
 ```
 <!--END_SECTION:bio-->
 
