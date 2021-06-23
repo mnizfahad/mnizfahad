@@ -22,7 +22,7 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/bash.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/postgres.jpg" width="60" height="60" />](https://mnizfahad.com)
-
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/verticle.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/react.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/flutter.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/js.jpg" width="60" height="60" />](https://mnizfahad.com)
