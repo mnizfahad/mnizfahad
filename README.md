@@ -19,7 +19,7 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:Tools-->
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/java.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/python.jpg" width="60" height="60" />](https://mnizfahad.com)
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.png" width="60" height="60" />](https://mnizfahad.com)
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/postgres.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/react.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/flutter.jpg" width="60" height="60" />](https://mnizfahad.com)
