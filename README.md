@@ -19,12 +19,14 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 <!--START_SECTION:Tools-->
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/java.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/python.jpg" width="60" height="60" />](https://mnizfahad.com)
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/bash.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/postgres.jpg" width="60" height="60" />](https://mnizfahad.com)
+
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/react.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/flutter.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/js.jpg" width="60" height="60" />](https://mnizfahad.com)
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/html.jpg" width="60" height="60" />](https://mnizfahad.com)
+
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/vscode.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/intellij.jpg" width="60" height="60" />](https://mnizfahad.com)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/shell.jpg" width="60" height="60" />](https://mnizfahad.com)
