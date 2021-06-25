@@ -28,4 +28,5 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/vscode.jpg" width="60" height="60" />](:target="_blank" )
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/intellij.jpg" width="60" height="60" />](:target="_blank" )
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/shell.jpg" width="60" height="60" />](:target="_blank" )
+![alt text](https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/shell.jpg "Logo Title Text 1")
 <!--END_SECTION:waka-->
