@@ -17,7 +17,7 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:bio-->
 
 <!--START_SECTION:Tools-->
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/java.jpg" width="60" height="60" />]
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/java.jpg" width="60" height="60" />] (blank)
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/python.jpg" width="60" height="60" />]( )
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/bash.jpg" width="60" height="60" />]( )
 [<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.jpg" width="60" height="60" />]( )
