@@ -1,4 +1,6 @@
-### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+[![Web](https://img.shields.io/badge/WEB-mnizfahad.com-red?style=for-the-badge&link=https://www.mnizfahad.com/)](https://www.mnizfahad.com/)
+
 ┣ 👨‍💻 Thoughtful Programmer <br/>
 ┣ 📸 Passionate Photographer <br/>
 ┗ 🧭 Curious Explorer <br/>
@@ -6,7 +8,7 @@
 
 
 
-<img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"  width="25px"> **Spend The Week On...** 
+<img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"  width="25px"> **-.- . . .--. / -.-. .- .-.. -- / .- -. -.. / .-- --- .-. -.- / ... -- .- .-. -** 
 <!--START_SECTION:bio-->
 ```text
 Enhancement   ║ ██████████████████▒▒▒░░░░░░░░░ ║  61.90 % 
