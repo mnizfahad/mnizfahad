@@ -12,9 +12,10 @@
 <img src="https://media1.giphy.com/media/YksSka3hZI4LhyrbuQ/giphy.gif"  width="25px"> **-.- . . .--. / -.-. .- .-.. -- / .- -. -.. / .-- --- .-. -.- / ... -- .- .-. -** 
 <!--START_SECTION:bio-->
 ```text
-Enhancement   ║ ██████████████████▒▒▒░░░░░░░░░ ║  61.90 % 
-Implement     ║ ░░░░░░░░░░░░░░░▒▒▒████████▒░░░ ║  30.71 % 
-Automate      ║ ░░░░░░░░░░░░░░░░░░░░░░░░▒▒████ ║  10.64 % 
+Enhancement   ║ ████████████▒▒▒░░░░░░░░░ ║  61.90 % 
+Implement     ║ ░░░░░░░░░░░▒▒▒██████▒░░░ ║  30.71 % 
+Automate      ║ ░░░░░░░░░░░░░░░░░░░░▒▒██ ║  10.64 % 
+
 
 ```
 <!--END_SECTION:bio-->
