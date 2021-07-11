@@ -21,15 +21,15 @@ Automate      ║ ░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:bio-->
 
 <!--START_SECTION:Tools-->
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/java.jpg" width="30" height="30" />](:target="_blank")
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/python.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/bash.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/postgres.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/react.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/flutter.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/js.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/vscode.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/intellij.jpg" width="30" height="30" />](:target="_blank" )
-[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/shell.jpg" width="30" height="30" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/java.jpg" width="40" height="40" />](:target="_blank")
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/python.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/bash.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/aws.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/postgres.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/react.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/flutter.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/js.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/vscode.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/intellij.jpg" width="40" height="40" />](:target="_blank" )
+[<img src="https://raw.githubusercontent.com/mnizfahad/mnizfahad/master/assets/images/shell.jpg" width="40" height="40" />](:target="_blank" )
 <!--END_SECTION:waka-->
